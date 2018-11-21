@@ -12,3 +12,5 @@ maven { url "https://raw.githubusercontent.com/love0829/Warehouse/master" }
 
 ## 2.app目录的build.gradle中添加一下代码：
  compile 'com.sunny.ui:dialog:1.0.0'
+
+  compile 'com.sunny.ui:dialog:1.0.0'
